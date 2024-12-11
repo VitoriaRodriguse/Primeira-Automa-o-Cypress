@@ -1,6 +1,7 @@
 # Automação de Testes com Cypress 🤖
 
 Este repositório contém minha primeira automação de testes utilizando o **Cypress**. 
+
 O **Cypress** é uma ferramenta moderna de automação de testes end-to-end (E2E), projetada especificamente para aplicações web. Ele se destaca pela sua simplicidade, rapidez e integração com o ambiente de desenvolvimento, permitindo que os testadores escrevam, executem e depurem testes com facilidade.  
 
 Nesse projeto, focado no Front-end, utilizei o Cypress para automatizar os testes de um formulário de Feedback.
