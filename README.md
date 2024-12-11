@@ -55,3 +55,6 @@ Esse comando criou uma função que realiza o envio dos formulários nos testes.
 ### Versão utilizada
 No arquivo package.json, é possível encontrar a versão do Cypress e do Faker utilizadas no projeto. 
 
+## Documentação do Cypress 📃
+[CypressDocs](https://docs.cypress.io/app/get-started/why-cypress)
+
